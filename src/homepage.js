@@ -13,5 +13,5 @@ function homepageContent() {
     content.appendChild(tradingHours);
 };
 
-export {homepageContent};
+export { homepageContent };
 
